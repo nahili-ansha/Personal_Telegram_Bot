@@ -5,8 +5,8 @@ This project is a personalized Telegram bot that interacts with users by respond
 
 ## Features
 
-**Start Command**: Initiates a conversation with a welcome message.
-**Help Command**: Provides users with information on how the bot works.
-**Custom Command**: Responds with a predefined message for a custom command.
-**Message Handling**: Processes and responds to user messages based on predefined responses.
-**Error Logging**: Logs errors that occur during the bot's operation.
+- **Start Command**: Initiates a conversation with a welcome message.
+- **Help Command**: Provides users with information on how the bot works.
+- **Custom Command**: Responds with a predefined message for a custom command.
+- **Message Handling**: Processes and responds to user messages based on predefined responses.
+- **Error Logging**: Logs errors that occur during the bot's operation.
