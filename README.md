@@ -45,13 +45,13 @@ This project is a personalized Telegram bot that interacts with users by respond
         pip install python telegram bot
         
 ## Creating Your Bot
-1. Create a bot using BotFather on Telegram:
+1. **Create a bot using BotFather on Telegram:**
 
   - Start a conversation with BotFather.
   - Use the command /newbot to create a new bot.
   - Follow the prompts to set the name and username of your bot.
   - BotFather will provide an API token. Save this token for use in your code.
-2. Set bot details:
+2. **Set bot details:**
 
   - Use the command /setdescription to set the bot's description.
   - Use the command /setabout to set the bot's about section.
