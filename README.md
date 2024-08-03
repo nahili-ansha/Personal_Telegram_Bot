@@ -70,5 +70,11 @@ This project is a personalized Telegram bot that interacts with users by respond
    
        python main.py
 
+4. **Using the Bot in Group Chats/Private Chats**:
+
+- Add your bot to a group chat.
+- Open the group chat info, select "Administrators", and add your bot as an administrator.
+- Grant the necessary permissions for your bot to function properly in the group (e.g., send messages, delete messages, etc.).
+
 ## Project Structure
 main.py: The main script containing the code for the Telegram bot.
