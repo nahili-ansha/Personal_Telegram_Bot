@@ -53,9 +53,9 @@ This project is a personalized Telegram bot that interacts with users by respond
   - BotFather will provide an API token. Save this token for use in your code.
 2. Set bot details:
 
-  Use the command /setdescription to set the bot's description.
-  Use the command /setabout to set the bot's about section.
-  Use the command /setuserpic to set the bot's profile picture.
+  - Use the command /setdescription to set the bot's description.
+  - Use the command /setabout to set the bot's about section.
+  - Use the command /setuserpic to set the bot's profile picture.
   
 ## Project Structure
 main.py: The main script containing the code for the Telegram bot.
