@@ -61,12 +61,12 @@ This project is a personalized Telegram bot that interacts with users by respond
  1. **Obtain API Token from BotFather:**
 
   - After creating your bot, BotFather will provide an API token. Copy this token.
-2. Set API Token and user_name in Code:
+2. **Set API Token and user_name in Code**:
 
 - In the code, replace 'TOKEN' with the API token you received from BotFather.
 - In the code, replace 'BOT_USERNAME' with the user_name you setted.
   
-3. Run the main.py File:
+3. **Run the main.py File**:
    
    python main.py
 
