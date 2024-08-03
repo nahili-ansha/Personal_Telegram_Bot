@@ -77,4 +77,4 @@ This project is a personalized Telegram bot that interacts with users by respond
 - Grant the necessary permissions for your bot to function properly in the group (e.g., send messages, delete messages, etc.).
 
 ## Project Structure
-main.py: The main script containing the code for the Telegram bot.
+main.py
