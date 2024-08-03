@@ -67,6 +67,7 @@ This project is a personalized Telegram bot that interacts with users by respond
 - In the code, replace 'BOT_USERNAME' with the user_name you setted.
   
 3. Run the main.py File:
+   
    python main.py
 
 ## Project Structure
