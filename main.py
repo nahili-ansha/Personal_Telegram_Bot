@@ -2,8 +2,8 @@ from typing import Final
 from telegram import Update 
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN: Final= '7244745059:AAFB_1QmPnIliJwTAZ5d79sgO2t4NjpIu5k'
-BOT_USERNAME: Final = '@nahili_bot'
+TOKEN: Final= '' # use the API TOKEN provided by BotFather
+BOT_USERNAME: Final = '' # use the user_name you choosed
 
 # Commands
 # start_command: \start
