@@ -68,7 +68,7 @@ This project is a personalized Telegram bot that interacts with users by respond
   
 3. **Run the main.py File**:
    
-   python main.py
+     python main.py
 
 ## Project Structure
 main.py: The main script containing the code for the Telegram bot.
